@@ -27,7 +27,7 @@ from record_mapping import INPUT_RECORD_MAPPING
 from record_mapping import BONIFICI
 
 FLOWTYPE = 'OUTPUT_RECORD_MAPPING' # default value
-
+# fdsfsd
 #TODO add fields validation as specified in standard
 class Field(object):
 
