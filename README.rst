@@ -10,7 +10,7 @@ through their computer, with all the banks they have relations with.
 
 The CBI standards, defined by the Consortium, are aimed at a comprehensive
 definition of Functions able to utterly satisfy Business requirements of both
-Enterprises and Banks
+Enterprises and Banks dd
 
 The module
 __________
